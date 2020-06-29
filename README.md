@@ -21,8 +21,6 @@ Ablation is a retro-style vertically scrolling shooter. It is designed to feel l
 1. Now type python main.py
 1. Ablation should open! It's time to go save the universe!
 
-### What is PyGame?
-
 ![alt-text](images/introscreen.gif)
 
 ### Tips and Tricks to keep in mind while Playing
@@ -41,6 +39,9 @@ Ablation is a retro-style vertically scrolling shooter. It is designed to feel l
 ### Why did I create Ablation?
 
 My goal was to create a game using PyGame in order to improve my Python skills and learn new techniques. I chose to build a spaceship shoot 'em up game because I have fond childhood memories of playing an old arcade game called Raiden - which is where I got the inspiration for this game. 
+
+### What is PyGame?
+Pygame is a set of Python modules designed for building full-featured video games entirely in the Python language. It is extremely portable and is supported on basically every operating system. 
 
 ### What I learned while making this game?
 
