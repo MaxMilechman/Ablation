@@ -43,7 +43,7 @@ My goal was to create a game using PyGame in order to improve my Python skills a
 ### What is PyGame?
 Pygame is a set of Python modules designed for building full-featured video games entirely in the Python language. It is extremely portable and is supported on basically every operating system. 
 
-### What I learned while making this game?
+### What I learned while making this game
 
 I certainly learned a lot of new and interesting techniques that I can take with me as I move on to future, more complex projects. More importantly I learned a lot of things that didn't work well that I will now be able to easily avoid in the future. 
 * Stick to a strict OOP style. Keeping different classes and functions organized into separate .py files will help keep the program organized and progress moving quickly.
