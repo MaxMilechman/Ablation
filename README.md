@@ -1,6 +1,6 @@
 ![alt-text](images/boss1.gif)
 
-![Title](images/game_title.png)
+![Title](images/game_title.jpg)
 
 > Spaceship Survival Shoot 'em Up Game
 
