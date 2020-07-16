@@ -15,8 +15,8 @@ Ablation is a retro-style vertically scrolling shooter. It is designed to feel l
 
 1. Install Python 3 and Pygame on your computer.
 1. Click the green Clone button on this GitHub Directory and click Download ZIP.
-1. Unzip the project and launch with python main.py from the command line.
-1. Ablation should open! It's time to go save the universe!
+1. Unzip the project and open the directory. Open main.py.
+1. It's time to go save the universe!
 
 ![alt-text](images/introscreen.gif)
 
